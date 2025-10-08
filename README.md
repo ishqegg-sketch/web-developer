@@ -1,2 +1,2 @@
-# web-developer
-calculator
+web developer 
+html \css \ javascript 
